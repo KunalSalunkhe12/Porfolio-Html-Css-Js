@@ -7,12 +7,14 @@ let links = document.querySelectorAll('.links');
 hamburger.addEventListener('click', () => {
     navLinks.classList.toggle('active-ul')
     header.classList.toggle('header-pad')
+    document.querySelector('.fa-solid').classList.toggle('fa-x')
 })
 
 links.forEach(link => {
     link.addEventListener('click', () => {
         header.classList.toggle('header-pad')
         navLinks.classList.toggle('active-ul')
+        document.querySelector('.fa-solid').classList.toggle('fa-x')
     })
 })
 
