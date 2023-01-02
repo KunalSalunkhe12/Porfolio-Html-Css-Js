@@ -1,12 +1,12 @@
 
 # Personal Portfolio
 
-A Portfolio Website created Using Pure HTML & CSS. It gives information About my Education , Skills , Projects, etc.
+A Portfolio Website created Using Pure HTML & CSS. 
+It gives information About my Career , Skills , Projects, etc.
 
 
-## Demo
 
-Site👉: https://kunalsalunkhe12.github.io/Personal-Portfolio-HTML-CSS/
+Site👉 https://kunalsalunkhe12.netlify.app/
 
 
 ## Tech Stack
